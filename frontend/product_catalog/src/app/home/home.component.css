@@ -1,0 +1,42 @@
+h1{
+  color: blueviolet;
+}
+table{
+  text-align: left;
+  color: blueviolet;
+  border-collapse: collapse;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 50px;
+}
+table td,table th{
+  border: 1px solid blueviolet;
+  padding: 10px;
+  min-height: 160px;
+}
+img{
+  width: 100px;
+  height: 100px;
+}
+
+.product-list .nav-search {
+  flex: 1;
+  display: flex;
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: 5px;
+}
+
+.product-list .nav-search input {
+  flex: 1;
+  color: blueviolet;
+  border: 1px solid blueviolet;
+  height: 39px;
+  border-right: none;
+}
+
+.product-list .nav-search button{
+  color: blueviolet;
+  border: 1px solid blueviolet;
+  height: 39px;
+}

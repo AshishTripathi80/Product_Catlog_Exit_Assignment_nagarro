@@ -1,0 +1,14 @@
+
+.product-details .product-img{
+  width: 30%;
+  height: 160px;
+  object-fit: contain;
+  margin-top: 10px;
+}
+
+.product-details .details{
+  margin-left: 70px;
+}
+
+
+
